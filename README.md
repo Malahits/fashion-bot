@@ -1,3 +1,3 @@
-# Fashion Bot
+# FashionBot
 
-AI-powered fashion recommendation bot for Telegram with minimal user input.
+Бот для подбора одежды по погоде и цели дня.
